@@ -27,7 +27,7 @@ El proyecto requiere una instancia de PostgreSQL. Ejecuta el siguiente comando p
 docker run --name tiendita-db -e POSTGRES_PASSWORD=1234 -p 5432:5432 -d postgres
 Nota: Este comando configura la contraseña 1234 y expone el puerto 5432 en tu localhost.
 
-## COnfiguración de credenciales 
+## Configuración de credenciales 
 La cadena de conexión por defecto asume que estás usando el contenedor Docker del paso anterior, si deseas cambiar la contraseña o el usuario:
 
 * Abre el archivo appsettings.json en la raíz del proyecto.
