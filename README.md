@@ -38,3 +38,6 @@ La cadena de conexión por defecto asume que estás usando el contenedor Docker 
 Una vez que el contenedor de Docker esté corriendo, inicializa la base de datos y crea las tablas usando Entity Framework:
 
 dotnet ef database update
+
+## Ejecución
+Para iniciar el servidor de la API: dotnet run
