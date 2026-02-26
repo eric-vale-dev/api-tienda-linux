@@ -1,4 +1,4 @@
-# 🐧 Tiendita API (Linux Edition)
+# 🐧 Tiendita API
 
 Una API RESTful completa para la gestión de inventario, desarrollada y probada al 100% en un entorno **Fedora Linux**.
 
